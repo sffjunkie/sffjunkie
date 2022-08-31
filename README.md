@@ -2,5 +2,5 @@
 - Open sauce advocate (Tommy K is a favourite)
 - Hardware maintenance a speciality (I once instaled 32K of RAM in a ZX Spectrum)
 - Currently looking for help with winning the lottery.
-- Created a project with downloads in the top 1% of PyPi (They say it's only because it's a direct dependency of another very popular project and they're definitely right (because they include me))
+- Created a project with downloads in the top 1% of PyPi ('They' say it's only because it's a direct dependency of another very popular project and they're definitely right (because they include me))
 - I'm currently learning (always have done, always will do)
