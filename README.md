@@ -1,3 +1,11 @@
+[astral](https://github.com/sffjunkie/astral) |
+[astral-cs](https://github.com/sffjunkie/astral-cs) |
+[astral-ts](https://github.com/sffjunkie/astral-ts) |
+[pkiviewer](https://github.com/sffjunkie/pkiviewer) |
+[netviewer](https://github.com/sffjunkie/netviewer) |
+[secretscanner](https://github.com/sffjunkie/secretscanner) |
+[rich-ascii](https://github.com/sffjunkie/rich-ascii)
+
 - Hobbiest developer with years and years of experience (that's 2 years at least)
 - Open sauce advocate (Tommy K is a favourite)
 - Hardware maintenance a speciality (I once instaled 32K of RAM in a ZX Spectrum)
