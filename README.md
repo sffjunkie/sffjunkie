@@ -6,7 +6,7 @@
 [secretscanner](https://github.com/sffjunkie/secretscanner) |
 [rich-ascii](https://github.com/sffjunkie/rich-ascii)
 
-- Hobbiest developer with years and years of experience (so that's 2 years at least)
+- Amateur developer with years and years of experience (so that's 2 years at least)
 - Open sauce advocate (Tommy K is a favourite)
 - Hardware maintenance a speciality (I once instaled 32K of RAM in a ZX Spectrum)
 - Currently looking for help with winning the lottery.
