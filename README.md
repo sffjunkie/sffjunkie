@@ -5,7 +5,8 @@
 [netviewer](https://github.com/sffjunkie/netviewer) |
 [secretscanner](https://github.com/sffjunkie/secretscanner) |
 [ppuri](https://github.com/sffjunkie/ppuri) |
-[rich-ascii](https://github.com/sffjunkie/rich-ascii)
+[rich-ascii](https://github.com/sffjunkie/rich-ascii) |
+[pytest-richtrace](https://github.com/sffjunkie/pytest-richtrace)
 
 - Amateur developer with years and years of experience (so that's 2 years at least)
 - Open sauce advocate (Tommy K is a favourite)
